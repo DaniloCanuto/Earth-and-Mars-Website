@@ -1,0 +1,65 @@
+body {
+    color: #f4f4f4;
+    text-align: justify;
+}
+
+#main {
+    background-image: url("/images/solar_system.jpg");
+    background-size: cover;
+}
+
+#earth {
+    background-color: #024E94;
+}
+
+#mars {
+    background-color: #a30c27;
+}
+
+h1 {
+    color: cyan;
+}
+
+a {
+    color: yellow;
+}
+
+.intro {
+    font-size: 24px;
+}
+
+.earth-title {
+    color: #61C6F5;
+}
+
+.earth-subtitle1 {
+    color: #f7ccb9;
+}
+
+.earth-subtitle2 {
+    color: lightskyblue;
+}
+
+#earth-image { 
+    border-radius: 10px;
+    border-style: groove;
+    border: 5px solid white
+}
+
+.mars-title {
+    color: yellow;
+}
+
+.mars-subtitle1 {
+    color: #f5c9d2;
+}
+
+.mars-subtitle2 {
+    color: #fbf69c;
+}
+
+#mars-image { 
+    border-radius: 10px;
+    border-style: groove;
+    border: 5px solid white
+}
