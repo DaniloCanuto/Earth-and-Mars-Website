@@ -5,6 +5,7 @@ body {
 
 #main {
     background-image: url("/images/solar_system.jpg");
+    background-size: cover;
 }
 
 #earth {
