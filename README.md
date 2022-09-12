@@ -1,9 +1,8 @@
 # [Earth and Mars](https://danilocanuto.github.io/Earth-and-Mars-Website)
 <file src="index.html"/>
-<img src="css/solar_system.jpg"/>
 
-In this exercise, the objective was to create a basic website structure with HTML and link the HTML page to an external CSS file to add styles to the page.
+In this exercise, the objective was to create a three page website with HTML, add links to navigate between the pages and style all the pages with the same external CSS file.
 
-Future Improvements: Add aditional pages about different types of dinosaurs.
+Future Improvements: Add columns with flexbox.
 
-Usage: Practice HTML, Tags, Link, Img, Fonts, Borders, Colors, CSS, External CSS.
+Usage: Practice HTML, Tags, Links, Img, Fonts, Borders, Colors, CSS, External CSS.
